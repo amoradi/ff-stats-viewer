@@ -1,6 +1,6 @@
-(form)
+# Home Page
 
-#### Get Stats for Position(s)
+## Get Stats by Position - **form**
 
 Select Positions
 
@@ -23,7 +23,7 @@ Choose Stats Mode - **(radio)**
 
 ---
 
-#### Get Stats for Player
+## Get Stats by Player - **(form)**
 
 [Add Player +] - **(button)**
 
