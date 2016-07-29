@@ -43,16 +43,29 @@ Example URL "/wr/std/avg/3/jordan-reed"
 
 #### Table View
 
-- columns are sortable
-- columns are selectable
-
-### Jordan Reed 2013 Standard Stats
+### Jordan Reed 2013-2015 Average Standard Stats
 
 **[table]** [graph]
 
 | player | position | team | rush yds | rec TD | year | fantasy pts |
 |:------ |:--------:|:----:|:--------:|:------:| --- |:-----------:|
-Reed, Jordan | te | was| 54  | 32 | 2013 | 100
+Reed, Jordan | te | was| 54  | 32 | 2013-2015 | 100
 
+
+Example URL "/rb/ppr/sum/all/rashad-jennings"
+
+#### Table View
+
+### Rashad Jennings 2011-2015 PPR Stats
+
+**[table]** [graph]
+
+| player | position | team | rush yds | rec TD | year | fantasy pts |
+|:------ |:--------:|:----:|:--------:|:------:| --- |:-----------:|
+Jennings, Rashad | rb | nyg | 304  | 0 | 2011 | 63
+Jennings, Rashad | rb | nyg | 223  | 0 | 2012 | 54
+Jennings, Rashad | rb | nyg | 254  | 0 | 2013 | 78
+Jennings, Rashad | rb | nyg | 854  | 3 | 2014 | 141
+Jennings, Rashad | rb | nyg | 854  | 2 | 2015 | 190
 
 ---
