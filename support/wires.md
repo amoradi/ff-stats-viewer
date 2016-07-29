@@ -23,7 +23,7 @@ Choose Stats Mode - **(radio)**
 
 ---
 
-#### Get Stats for Player(s)
+#### Get Stats for Player
 
 [Add Player +] - **(button)**
 
