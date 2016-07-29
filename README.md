@@ -40,7 +40,7 @@ Multiple player stats viewed in multiple tables. 1 player per table.
 
 #### URL Routing Pattern
 
-	/ compare / [position / stats / years back / fistname-lastname /], [position / stats / years back / fistname-lastname /] ...
+	/ compare / [position / scoring / stats / years back / fistname-lastname /], [position / scoring /stats / years back / fistname-lastname /] ...
 
-- /compare/wr/sum/2/dez-bryant/wr/sum/2/aj-green - compare 2014 dez bryant & aj green stats (2 tables)
-- /compare/wr/avg/3/dez-bryant/rb/sum/2/carlos-hyde - compare average stats from 2013-2015 for dez bryant with Carlos Hyde's 2014 stats (2 tables)
+- /compare/wr/ppr/sum/2/dez-bryant/wr/half-ppr/sum/2/aj-green - compare 2014 dez bryant & aj green stats (2 tables)
+- /compare/wr/standard/avg/3/dez-bryant/rb/ppr/sum/2/carlos-hyde - compare average stats from 2013-2015 for dez bryant with Carlos Hyde's 2014 stats (2 tables)
