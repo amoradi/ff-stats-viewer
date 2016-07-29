@@ -1,5 +1,7 @@
 # Stats
 
+## Positional Stats
+
 Example URL "/ppr/sum/5/rb-te-wr" - similar to https://fantasydata.com/nfl-stats/nfl-fantasy-football-stats.aspx
 
 #### Table View
@@ -7,7 +9,7 @@ Example URL "/ppr/sum/5/rb-te-wr" - similar to https://fantasydata.com/nfl-stats
 - columns are sortable
 - columns are selectable
 
-### RB, TE, WR 2010-2014 PPR STATS
+### RB, TE, WR 2010-2014 PPR Stats
 
 **[table]** [graph]
 
@@ -34,3 +36,23 @@ Hyde, Carlos, 350
 Reed, Jordan, 600
 
 Smith, Steve, 800
+
+## Player Stats
+
+Example URL "/wr/std/avg/3/jordan-reed"
+
+#### Table View
+
+- columns are sortable
+- columns are selectable
+
+### Jordan Reed 2013 Standard Stats
+
+**[table]** [graph]
+
+| player | position | team | rush yds | rec TD | year | fantasy pts |
+|:------ |:--------:|:----:|:--------:|:------:| --- |:-----------:|
+Reed, Jordan | te | was| 54  | 32 | 2013 | 100
+
+
+---
