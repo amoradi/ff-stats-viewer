@@ -4,48 +4,48 @@
 
 Select Positions
 
-[d] [k] [qb] [rb] [te] [wr] - **divs**
+[d] [k] [qb] [rb] [te] [wr] - **(divs, multiple selection capable)**
 
 Choose Scoring Method
 
-**radio**
+**(radio)**
 - standard
 - ppr
 - half ppr
 
 Choose Stats Mode
 
-**radio**
+**(radio)**
 - sum (stats from single year totals)
 - average (average calculated from year selected to last year) 
 
-[Choose Year] - **select**
+[Choose Year] - **(select)**
 
-[get stats] - **button**
+[get stats] - **(button)**
 
 ---
 
 #### Get Stats for Player(s)
 
-[Add Player +] - **button**
+[Add Player +] - **(button)**
 
-[select position] - **select**
+[select position] - **(select)**
 
-[name] - **text input auto complete from data**
+[name] - **(text input auto complete from data)**
 
 Choose Scoring Method
 
-**radio**
+**(radio)**
 - standard
 - ppr
 - half ppr
 
 Choose Stats Mode
 
-**radio**
+**(radio)**
 - sum (stats from single year totals)
 - average (average calculated from year selected to last year) 
 
-[Choose Year] - **select**
+[Choose Year] - **(select)**
 
-[get stats] (button)
+[get stats] - **(button)**
