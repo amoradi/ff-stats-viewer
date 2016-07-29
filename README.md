@@ -36,7 +36,7 @@ Individual player stats (averages or sums) in a single table.
 
 ### Player Comparison View
 
-Multiple players stats viewed in multiple tables. 1 player per table.
+Multiple player stats viewed in multiple tables. 1 player per table.
 
 #### URL Routing Pattern
 
