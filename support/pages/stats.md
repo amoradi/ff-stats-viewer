@@ -1,6 +1,5 @@
 # Stats
 
-
 Example URL "/ppr/sum/5/rb-te-wr" - similar to https://fantasydata.com/nfl-stats/nfl-fantasy-football-stats.aspx
 
 #### Table View
@@ -29,13 +28,19 @@ If a column is not selected, "fantasy pts" is graphed. Else if, a column is sele
 [table] **[graph]**
 		
 		|||
+
     ||| |||
+    
 ||| ||| |||
 
 350 600 800
 
 H   R   S
+
 y   e   m
+
 d   e   i
+
 e   d   t
+
         h
