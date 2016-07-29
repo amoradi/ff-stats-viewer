@@ -23,8 +23,6 @@ Choose Stats Mode - **(radio)**
 
 [get stats] - **(button)**
 
----
-
 ## Get Stats by Player
 
 **(form)**
