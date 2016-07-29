@@ -21,26 +21,16 @@ Smith, Steve | wr | bal| 200  | 46 | | 800
 
 #### Graph View
 
-If a column is not selected, "fantasy pts" is graphed. Else if, a column is selected, the respecitve column is graphed. All graphs graph a metric coupled with the player name.
+If a column is not selected, "fantasy pts" is graphed. Else if a column is selected, the respecitve column is graphed. All graphs include player name and a metric.
 
 ### RB, TE, WR 2010-2014 PPR STATS
 
 [table] **[graph]**
 		
-		|||
+Hyde, Carlos, 350
 
-    ||| |||
-    
-||| ||| |||
+Reed, Jordan, 600
 
-350 600 800
+Smith, Steve, 800
 
-H   R   S
-
-y   e   m
-
-d   e   i
-
-e   d   t
-
-        h
+- bar graph
