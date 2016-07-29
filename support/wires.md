@@ -6,16 +6,14 @@ Select Positions
 
 [d] [k] [qb] [rb] [te] [wr] - **(divs, multiple selection capable)**
 
-Choose Scoring Method
+Choose Scoring Method - **(radio)**
 
-**(radio)**
 - standard
 - ppr
 - half ppr
 
-Choose Stats Mode
+Choose Stats Mode - **(radio)**
 
-**(radio)**
 - sum (stats from single year totals)
 - average (average calculated from year selected to last year) 
 
@@ -33,16 +31,14 @@ Choose Stats Mode
 
 [name] - **(text input auto complete from data)**
 
-Choose Scoring Method
+Choose Scoring Method - **(radio)**
 
-**(radio)**
 - standard
 - ppr
 - half ppr
 
-Choose Stats Mode
+Choose Stats Mode - **(radio)**
 
-**(radio)**
 - sum (stats from single year totals)
 - average (average calculated from year selected to last year) 
 
