@@ -4,7 +4,7 @@
 
 Select Positions
 
-[d] [k] [qb] [rb] [te] [wr] (divs)
+[d] [k] [qb] [rb] [te] [wr] <divs>
 
 Choose Scoring Method
 
