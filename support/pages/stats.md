@@ -1,13 +1,17 @@
 # Stats
 
 
-Example URL "/ppr/sum/5/rb-te-wr" - **(table)** (similar to https://fantasydata.com/nfl-stats/nfl-fantasy-football-stats.aspx)
+Example URL "/ppr/sum/5/rb-te-wr" - similar to https://fantasydata.com/nfl-stats/nfl-fantasy-football-stats.aspx
 
-- **(sortable columns)**
+### RB, TE, WR 2010-2014 PPR STATS
+
+[**table**][graph]
 
 | player | position | team | rush yds | rec TD | ... | fantasy pts |
 |:------ |:--------:|:----:|:--------:|:------:| --- |:-----------:|
-Hyde, Carlos | rb | sf | 600 | 2 | | 50 
-Reed, Jordan | te | was| 24  | 11| | 135
-Smith, Steve | wr | bal| 10  | 6 | | 77 
+Hyde, Carlos | rb | sf | 3600 | 19 | | 350 
+Reed, Jordan | te | was| 54  | 41| | 600
+Smith, Steve | wr | bal| 200  | 46 | | 800 
 
+- columns are sortable
+- columns are selectable
