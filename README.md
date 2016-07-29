@@ -34,7 +34,7 @@ Individual player stats (averages or sums) in a single table.
 - /wr/sum/2/dez-bryant - show 2014 stats for dez bryant
 - /wr/avg/3/dez-bryant - shows average stats from 2013-2015 for dez bryant 
 
-### Player Comparisons View
+### Player Comparison View
 
 Multiple players stats viewed in multiple tables. 1 player per table.
 
