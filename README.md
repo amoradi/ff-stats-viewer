@@ -4,7 +4,7 @@ The purpose of this app is to view fantasy football stats in a manner where user
 
 ## Views
 
-### Positional
+### Positional View
 
 User can view single or multiple postion stats as averages or sums in a single table.
 
@@ -23,9 +23,7 @@ User can view single or multiple postion stats as averages or sums in a single t
 - /half-ppr/avg/0/te-wr - retrieves this year's stats (sum not averaged) for TE's and WR's
 - /half-ppr/avg/1/te-wr - retrieves last year's stats (sum not averaged) for TE's and WR's
 
----
-
-### Player
+### Player View
 
 Individual player stats (averages or sums) in a single table.
 
@@ -36,9 +34,7 @@ Individual player stats (averages or sums) in a single table.
 - /wr/sum/2/dez-bryant - show 2014 stats for dez bryant
 - /wr/avg/3/dez-bryant - shows average stats from 2013-2015 for dez bryant 
 
----
-
-### Player Comparisons
+### Player Comparisons View
 
 Multiple players stats viewed in multiple tables. 1 player per table.
 
